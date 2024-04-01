@@ -41,7 +41,7 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `*XLICON-MD*`,
+        caption: `XLICON-MD`,
     }, {
         quoted: citel,
     });
