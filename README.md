@@ -63,9 +63,11 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 <a href="https://xlicon-qr-3282f577cf2e.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SCAN-QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
+
 ❑SCAN QR (REPLIT)
 <a href="https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4" target="_blank">
-  <img src="https://img.shields.io/badge/QRREPL-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/QR_REPLIT-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
