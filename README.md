@@ -58,8 +58,6 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 
 
 ❏GET SESSION ID (SCAN-QR) 
-
- 
 <a href="https://xlicon-qr-3282f577cf2e.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
@@ -68,9 +66,6 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 
 
 ❑SCAN QR (REPLIT)
-
-
-
 <a href="https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4" target="_blank">
   <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
