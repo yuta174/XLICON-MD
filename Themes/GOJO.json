@@ -11,8 +11,8 @@
             "UPDATED_LOCAL": "Fresh Updates Installed!"
         },
         "global": {
-            "botName": " GOJO SATURO ",
-            "body": " SUKAAMUNAA!! ",
+            "botName": "XLICON-MD",
+            "body": " Xliconnn!! ",
             "greet2" : "Hey Baka! I'm the strongest",
             "pic1": "https://telegra.ph/file/1ee748eead4fe9efadd1e.jpg",
             "pic2": "https://telegra.ph/file/8192328287664bf2caeb7.jpg",
@@ -25,7 +25,7 @@
            "dotbody" : "Yup.I am here.", 
             "emijii" : "🎍",
             "promote": "A new worthy Cursed skill arrived",
-            "pmallow": "Hii,This is Gojo\n*The strongest Jujutsu Scocerer.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmallow": "Hii,This is Xlicon-bot\n*By Team X.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
             "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by Xlicon-Md",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by Xlicon-Md*",
             "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by Xlicon-Md", 
@@ -34,7 +34,7 @@
             "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 GOJO SATURO*",
             "mention": " Please mention any user Baka!",
-            "title": "GOJO SATURO",
+            "title": "XLICON-MD",
             "footer": "Baka! I'm Here!",
             "by": "Made by: Xlicon Team",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
