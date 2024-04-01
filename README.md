@@ -400,11 +400,13 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 </h1>
 
 * [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
+*[`🎐 乂匚乇ㄥ丂卂爪卂`](https://github.com/Xcelsama) ***FOR QR***
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
 * [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
 * [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
 * [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
 * 
+
 
 ---
 
