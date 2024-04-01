@@ -51,7 +51,7 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 
 ❏FORK THE REPOSITORY 
   <a href="https://github.com/salmanytofficial/XLICON-MD/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+  <img src="https://img.shields.io/badge/FORK-XLICON-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
