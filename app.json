@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "Salman Ahmad"
+      "value":"Salman Ahmad"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -17,7 +17,7 @@
  },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.put true or false",
-       "required" :false
+       "required" :false, 
        "value":"false"
        },
   "AUTO_READ_STATUS": {
