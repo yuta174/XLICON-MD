@@ -358,7 +358,7 @@ Choose your repo
   
    ## 
 [![Xcelsama](https://github.com/Xcelsama.png?size=300)](https://github.com/Xcelsama)
-  </br> 
+  </br> Bug fixer|Tester|Co.owner
 
   ## `Support`
 
