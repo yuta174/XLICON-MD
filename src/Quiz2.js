@@ -1,5 +1,3 @@
-
-
 const { cmd, getRandomInt } = require('../lib');
 const quizQuestions = [
     {
