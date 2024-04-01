@@ -46,21 +46,31 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 <br>
 
 ---
+## 🛠️ `Installation Procedure`
+
+
+❏FORK THE REPOSITORY 
+  <a href="https://github.com/salmanytofficial/XLICON-MD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+
+
+
+❏GET SESSION ID (SCAN-QR) 
+
+ 
+<a href="https://xlicon-qr-3282f577cf2e.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN-QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+<a href="https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4" target="_blank">
+  <img src="https://img.shields.io/badge/RUN-QR-REPL-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
 
     
-## `Installation` 📲
 
-1. Fork the repo
-    <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
-
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
-    <br>
-<a href='https://xlicon-qr-3282f577cf2e.herokuapp.com/' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-3. Scan Qr (Replit)
-    <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
