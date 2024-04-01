@@ -351,12 +351,13 @@ Choose your repo
   
 | [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
 |----|
-| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
   
-   
+   ## 
+[![Xcelsama](https://github.com/Xcelsama.png?size=300)](https://github.com/Xcelsama)
   </br> 
 
   ## `Support`
