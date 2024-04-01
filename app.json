@@ -12,14 +12,16 @@
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
-     "required" :true
-    },
+     "required" :false, 
+     "value": "•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\nι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ \n•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n\n*ι αм ᴍυℓтι ԃєνιᴄє ω* \n*Cʀєαтєԃ вყ : ,ʂαʅɱαɳ αԋɱαԃ*\n\n𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 : wa.me/2347045035241 \n 𝙵𝙾𝙻𝙻𝙾𝚆: https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m" 
+ },
     "AUTO_STATUS_SAVER": {
-      "description": "Automatically saves status of every person and sends in log number.",
+      "description": "Automatically saves status of every person and sends in log number.put true or false",
        "required" :false
+       "value":"false"
        },
   "AUTO_READ_STATUS": {
-    "description": "Fill the value true if you want bot view your Statuses.",
+    "description": "Fill the value true if you want bot view your Status or false.",
     "" :false,
     "value": "false"
       },
