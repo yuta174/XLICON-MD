@@ -56,9 +56,9 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-PAIRING-SESSION?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://xlicon-qr-3282f577cf2e.herokuapp.com/' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-3. Scan Qr
+3. Scan Qr (Replit)
     <br>
 <a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
