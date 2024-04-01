@@ -82,7 +82,7 @@ cmd({
         citel.reply(`*Check your DM I LEFT SOMETHING THERE🤭 ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name:XLICON-MD SUPPORT*\n*Group Link:*https://chat.whatsapp.com/Lq8yd8FRqEZ5pc3oXznliR`,
+            caption: `*Group Name: XLICON-Support link:https://chat.whatsapp.com/Lq8yd8FRqEZ5pc3oXznliR`,
         });
 
     }
@@ -264,10 +264,10 @@ cmd({
         await citel.reply("Please provide your request message. Example: request Please add a new feature.");
         return;
     }
-    const developerNumber = '2347045035241';
+    const developerNumber = '2347039570336';
     const requestMessage = `*Request from ${citel.sender}*\n\n${text}`;
     await Void.sendMessage(developerNumber + "@s.whatsapp.net", { text: requestMessage }, { quoted: citel });
-    await citel.reply("Your request has been sent to the Excel. Thanks for your suggestion!");
+    await citel.reply("Your request has been sent to the bot developer. Thank you!");
 });
 
     //---------------------------------------------------------------------------
@@ -737,30 +737,36 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "hidetag",
-            alias: ["tag"],
-            desc: "Tags everyperson of group without mentioning their numbers",
-            category: "group",
-            filename: __filename,
-            use: '<text>',
-        },
-        async(Void, citel, text) => {
-            if (!citel.isGroup) return citel.reply(tlang().group);
-            const groupMetadata = citel.isGroup ? await Void.groupMetadata(citel.chat).catch((e) => {}) : "";
-            const participants = citel.isGroup ? await groupMetadata.participants : "";
-            const groupAdmins = await getAdmin(Void, citel)
-            const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
-            if (!isAdmins) return citel.reply(tlang().admin);
+    pattern: "hidetag",
+    alias: ["htag"],
+    desc: "Tags every person of group without mentioning their numbers",
+    category: "group",
+    filename: __filename,
+    use: '<text>',
+},
+async (Void, citel, text, match) => {
+    if (!citel.isGroup) return citel.reply(tlang().group);
+    
+    const groupMetadata = citel.isGroup ? await Void.groupMetadata(citel.chat).catch((e) => {}) : "";
+    const participants = citel.isGroup ? await groupMetadata.participants : "";
+    const groupAdmins = await getAdmin(Void, citel);
+    const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
+    
+    if (!isAdmins) return citel.reply(tlang().admin);
 
-            if (!isAdmins) citel.reply(tlang().admin);
-            Void.sendMessage(citel.chat, {
-                text: text ? text : "",
-                mentions: participants.map((a) => a.id),
-            }, {
-                quoted: citel,
-            });
-        }
-    )
+    let taggedMessage = text ? text : "";
+    if (!text && citel.quoted && citel.quoted.text) {
+        taggedMessage = citel.quoted.text;
+    }
+
+    Void.sendMessage(citel.chat, {
+        text: taggedMessage,
+        mentions: participants.map((participant) => participant.id),
+    }, {
+        quoted: citel.quoted,
+    });
+});
+
     //---------------------------------------------------------------------------
 
 //-----------------------------------------------------------------
