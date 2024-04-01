@@ -125,8 +125,79 @@ return citel.reply(replyf)
       console.error(error);
       return await citel.reply, 'Error estimating age. Please try again later.');
     }
-  }
-);
-*/
+  });
+//--------------------Credit:Izuku-md------------
+cmd({
+  pattern: 'bible',
+  desc: 'Get a Bible verse',
+  category: "utility",
+  react: '🧎‍♂️',
+},
+async (Void, citel, text) => {
+  let verseReference = text.trim();
 
- //---------------------------------------------------------------------------
+  if (!verseReference) {
+    return citel.reply('Please provide a valid Bible verse reference.');
+  }
+
+  try {
+    let response = await axios.get(`https://bible-api.com/${encodeURIComponent(verseReference)}`);
+    let data = response.data;
+
+    if (!data || !data.verses || data.verses.length === 0) {
+      return citel.reply('Unable to retrieve the Bible verse. Please check the reference and try again.');
+    }
+
+    let verseText = data.verses[0].text;
+    let translationName = data.translation_name;
+
+    return citel.reply(`*${verseReference} (${translationName}):*\n${verseText}`);
+  } catch (error) {
+    citel.reply(`Error: ${error.message || error}`);
+  }
+});
+//-----------------Credit:Izuku-md------------------//
+cmd({
+  pattern: 'insult',
+  desc: 'Get a random insult',
+  category: "fun",
+  react: '🤥',
+},
+async (Void, citel) => {
+  try {
+    let response = await axios.get('https://evilinsult.com/generate_insult.php?lang=en&type=json');
+    let data = response.data;
+
+    if (!data || !data.insult) {
+      return citel.reply('Unable to retrieve an insult. Please try again later.');
+    }
+
+    let insult = data.insult;
+    return citel.reply(`*Insult:* ${insult}`);
+  } catch (error) {
+    citel.reply(`Error: ${error.message || error}`);
+  }
+});
+//----------------------------------Credit:I ZUKU-MD-------
+cmd({
+  pattern: 'rizz',
+  category: "fun",
+  desc: 'Get a random pickup line',
+  react: '🙈',
+},
+async (Void, citel) => {
+  try {
+    let response = await axios.get('https://vinuxd.vercel.app/api/pickup');
+    let data = response.data;
+
+    if (!data || !data.pickup) {
+      return citel.reply('Unable to retrieve a pickup line. Please try again later.');
+    }
+
+    let pickupLine = data.pickup;
+
+    return citel.reply(`*Pickup Line:* ${pickupLine}`);
+  } catch (error) {
+    citel.reply(`Error: ${error.message || error}`);
+  }
+});
