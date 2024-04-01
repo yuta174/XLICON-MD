@@ -82,12 +82,12 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "",
+    "value": "mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority",
     "required" :true
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "GOJO"
+    "description": "Put the theme name you want to use. Avilable themes are XLICON,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+     "value": "XLICON"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -100,12 +100,12 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "",
+    "value": "Xlicon",
     "required" :true
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "",
+    "value": "XLICON",
     "required" :true
   },
   "heroku": {
