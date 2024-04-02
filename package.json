@@ -1,19 +1,19 @@
 {
-  "name": "Xlicon-md",
+  "name": "XLICON-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Team X.",
+  "description": "Multi device whatsapp bot by TEAM-X.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Xlicon",
-    "stop": "pm2 stop Xlicon"
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name XLICON",
+    "stop": "pm2 stop XLICON"
   },
-  "author": "@Salmanytofficial",
+  "author": "salmanytofficial",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
-    "@whiskeysockets/baileys": "6.6.0",
+    "@sampandey001/baileys": "latest",
     "aptoide-scraper":"^1.0.1",
     "@shineiichijo/marika": "^2.0.3",
     "anime-character-random": "latest",
@@ -54,7 +54,7 @@
     "pastebin-js": "latest",
     "path": "^0.12.7",
     "pm2": "^5.3.1",
-    "request": "^2.88.2",
+    "request": "latest",
     "secktor-pack": "latest",
     "simple-git": "^3.16.1",
     "soundcloud-downloader": "^1.0.0",
