@@ -120,7 +120,8 @@ cmd({
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
 │*📡 Repo:* https://github.com/salmanytofficial/XLICON-MD
-│*🏘Group:* https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL
+│*Scan Qr:* https://xlicon-qr-3282f577cf2e.herokuapp.com/
+│*🏘Group:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
 │*🧑‍💻DEPLOY XLICON MD*:https://github.com/salmanytofficial/XLICON-MD
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
