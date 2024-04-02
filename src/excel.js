@@ -132,7 +132,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-        pattern: "help",
+        pattern: "support",
         desc: "Sends official support link.",
         category: "group",
         filename: __filename,
