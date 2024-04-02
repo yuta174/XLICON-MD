@@ -71,7 +71,7 @@ cmd({
                 `https://api.openweathermap.org/data/2.5/weather?q=${text}&units=metric&appid=060a6bcfa19809c2cd4d97a212b19273&language=en`
             );
             let textw = "";
-            textw += `*🌟Weather of  ${text}*\n\n`;
+            textw += `*XLICON Weather of  ${text}*\n\n`;
             textw += `*Weather:-* ${wdata.data.weather[0].main}\n`;
             textw += `*Description:-* ${wdata.data.weather[0].description}\n`;
             textw += `*Avg Temp:-* ${wdata.data.main.temp}\n`;
@@ -139,9 +139,9 @@ cmd({
         google({ 'query': text}).then(res => {
             let msg= `Google Search From : ${text} \n\n`;
             for (let g of res) {
-                msg+= `➣ Title : ${g.title}\n`;
-                msg+= `➣ Description : ${g.snippet}\n`;
-                msg+= `➣ Link : ${g.link}\n\n────────────────────────\n\n`;
+                msg+= `⚔️ Title : ${g.title}\n`;
+                msg+= `📂 Description : ${g.snippet}\n`;
+                msg+= `🔗 Link : ${g.link}\n\n────────────────────────\n\n`;
             }
          
             return citel.reply(msg);
