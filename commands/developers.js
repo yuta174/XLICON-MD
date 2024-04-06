@@ -63,38 +63,38 @@ citel.reply("```ᴱ𝗑Ꮯ𝖊ℓ:-\n https://github.com/Xcelsama/STAR-MD```")
 
 await sleep(1000)
 
+citel.reply("```🅢𝚞𝚑𝚊𝚒𝚕 🅢𝚎𝚛\𝚗 https://github.com/SuhailTechInfo/Suhail-Md```")
+
+await sleep(1000)
+
+citel.reply("```EX-BOTS:- https://EX-BOTS/BAT-MD")
+
+await sleep(1000)
+
+citel.reply("``````")
+
+await sleep(1000)
+
 citel.reply("``` ```")
 
 await sleep(1000)
 
-citel.reply("```System hyjacking on process.. \n Conecting to Excelsior Server ```")
+citel.reply("```  ```")
 
 await sleep(1000)
 
-citel.reply("```Device successfully connected... \n Riciving data...```")
+citel.reply("``` ```")
 
 await sleep(1000)
 
-citel.reply("```Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```")
-
-await sleep(1000)
-
-citel.reply("``` HACKING COMPLETED ```")
-
-await sleep(1000)
-
-citel.reply("``` SENDING  DOCUMENTS...```")
-
-await sleep(1000)
-
-citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
+citel.reply("``` ```")
 
 await sleep(1000) 
 
 citel.reply("```ʙʏ ᴇxᴄᴇʟ 2347045035241```")
 
 
-            return citel.reply('*ALL FILES TRANSFERRED*');
+            return citel.reply('*THOSE ARE MY DEVELOPERS *');
 
         }
 
