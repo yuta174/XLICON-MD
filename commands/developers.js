@@ -51,7 +51,7 @@ citel.reply("```ᎬХᏟᎬᏞ:-\n https://github.com/Xcelsama/STAR-MD-V2```")
 
 await sleep(1000)
 
-citel.reply("```ՏᎪᏞᎷᎪΝ:- https://github.com/salmanytofficial/```")
+citel.reply("```ՏᎪᏞᎷᎪΝ:- https://github.com/salmanytofficial/XLICON-V3-MD```")
 
 await sleep(1000)
 
@@ -71,23 +71,23 @@ citel.reply("```EX-BOTS:- https://EX-BOTS/BAT-MD")
 
 await sleep(1000)
 
-citel.reply("``````")
+citel.reply("```https://github.com/salmanytofficial/XLICON-V2-MD```")
 
 await sleep(1000)
 
-citel.reply("``` ```")
+citel.reply("```https://github.com/V-E-N-O-X/IRIS-MD```")
 
 await sleep(1000)
 
-citel.reply("```  ```")
+citel.reply("``` https://github.com/AbhishekSuresh2/Phoenix-MD ```")
 
 await sleep(1000)
 
-citel.reply("``` ```")
+citel.reply("```https://github.com/Maher-Zubair/SIGMA ```")
 
 await sleep(1000)
 
-citel.reply("``` ```")
+citel.reply("```𝑇𝐸𝐴𝑀-𝑋𝐿𝐼𝐶𝑂𝑁 ```")
 
 await sleep(1000) 
 
