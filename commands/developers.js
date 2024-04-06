@@ -55,15 +55,15 @@ citel.reply("```ՏᎪᏞᎷᎪΝ:- https://github.com/salmanytofficial/```")
 
 await sleep(1000)
 
-citel.reply("``````")
+citel.reply("```SAM:-\n https://github.com/SamPandey001/Secktor-MD```")
 
 await sleep(1000)
 
-citel.reply("```Transfering Browser History \n █ █ █ █ █ █ █ █ █ 90%```")
+citel.reply("```ᴱ𝗑Ꮯ𝖊ℓ:-\n https://github.com/Xcelsama/STAR-MD```")
 
 await sleep(1000)
 
-citel.reply("```Transfer successful \n █ █ █ █ █ █ █ █ █ █ 100% ```")
+citel.reply("``` ```")
 
 await sleep(1000)
 
